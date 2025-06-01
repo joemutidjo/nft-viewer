@@ -45,7 +45,7 @@ export default function NFTViewer() {
       <h1 style={{ textAlign: "center", fontSize: "2rem" }}>🖼 NFT Viewer (Sepolia)</h1>
 
       <p style={{ textAlign: "center", fontStyle: "italic", color: "#555" }}>
-        Make sure MetaMask is connected to the <strong>Sepolia test network</strong>
+        Please use the MetaMask browser extension on a desktop computer. Make sure MetaMask is connected to the <strong>Sepolia test network</strong>
       </p>
 
       {!connected ? (
